@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Obasemo Sodiq 👋
 
-<!--
-**Obaxzity/Obaxzity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst | Business Analytics
 
-Here are some ideas to get you started:
+I transform raw data into meaningful insights that support better business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💼 About Me
+
+- 📊 Data Analytics
+- 📈 Business Analytics
+- 🗄 SQL
+- 📑 Microsoft Excel
+- 📊 Power BI
+- 🐍 Python (currently expanding my skills)
+
+---
+
+## 🛠 Tools & Technologies
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Git & GitHub
+
+---
+
+## 🚀 Current Projects
+
+- DecodeLabs Data Analytics Internship
+- Data Cleaning & Preparation
+- SQL Practice
+- Business Analytics Portfolio
+
+---
+
+## 🎯 Career Goal
+
+Build practical analytics solutions that help organizations make data-driven decisions through accurate reporting, dashboards, and business intelligence.
+
+---
+
+## 🌐 Website
+
+https://biznalytiq.com
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
