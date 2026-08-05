@@ -30,9 +30,9 @@ I transform raw data into meaningful insights that support better business decis
 ## 🚀 Current Projects
 
 - DecodeLabs Data Analytics Internship
-- Data Cleaning & Preparation
-- SQL Practice
-- Business Analytics Portfolio
+- Data Quality & Transformation
+- Analytics Portfolio Development
+- Business Intelligence Solutions
 
 ---
 
@@ -42,9 +42,10 @@ Build practical analytics solutions that help organizations make data-driven dec
 
 ---
 
-## 🌐 Website
+## 🌐 Connect With Me
 
-https://biznalytiq.com
+- Website: https://biznalytiq.com
+- X (Twitter): https://x.com/BizNalytiq
 
 ---
 
